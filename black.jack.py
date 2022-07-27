@@ -35,7 +35,7 @@ def draw_card(hand,hide = False):
      ____________
     |  {}         |
     | {}          |
-    |             yes|
+    |             |
     |          {} |
     |         {}  |
     |_____________|""".format(suit,face,suit,face))
